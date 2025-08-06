@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHk2aGlkeHIyOHhndWx5b252eDUzdTg1MnI1NHYzN2ZwMGZnb3A2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -53,6 +53,16 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/{{your_username}}/{{alankritdabral}}/blob/output/github-contribution-grid-snake.svg)
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alankritdabral/alankritdabral/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alankritdabral/alankritdabral/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alankritdabral/alankritdabral/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/alankritdabral/output/snake.svg" alt="Snake animation" />
 
 ###
