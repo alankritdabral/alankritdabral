@@ -62,3 +62,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/alankritdabral/alankritdabral/output/snake.svg" alt="Snake animation" />
+
+###
